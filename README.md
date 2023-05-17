@@ -1,7 +1,19 @@
 ### Hi there 👋, my name Al-Amin
 #### Web Developer
-![Web Developer]
-https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/347596570_627053795960419_5299025454359644138_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH8U5sQCFYwVkl8yrUtJ0AA9llbqjfvfyT2WVuqN-9_JLZJg-FdwNuOHf_V_sx8f8m9xU5a5rJrJZm0qnjiFYLj&_nc_ohc=jOBS0RvuB48AX97YrUX&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAX91FlVtT2xIqioWlPB9gTssCcL-Cb6F7kJynXVksIow&oe=646A75E0
+### Hi there 👋, my name Al-Amin
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/347596570_627053795960419_5299025454359644138_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH8U5sQCFYwVkl8yrUtJ0AA9llbqjfvfyT2WVuqN-9_JLZJg-FdwNuOHf_V_sx8f8m9xU5a5rJrJZm0qnjiFYLj&_nc_ohc=jOBS0RvuB48AX97YrUX&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAX91FlVtT2xIqioWlPB9gTssCcL-Cb6F7kJynXVksIow&oe=646A75E0)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
