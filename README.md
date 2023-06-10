@@ -3,7 +3,7 @@
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/347596570_627053795960419_5299025454359644138_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH8U5sQCFYwVkl8yrUtJ0AA9llbqjfvfyT2WVuqN-9_JLZJg-FdwNuOHf_V_sx8f8m9xU5a5rJrJZm0qnjiFYLj&_nc_ohc=jOBS0RvuB48AX97YrUX&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAX91FlVtT2xIqioWlPB9gTssCcL-Cb6F7kJynXVksIow&oe=646A75E0)
 
-
+https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/352360865_741590107762128_4946952940908062175_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGyJJwzOsUCfYKNqKKuCgM7okKtbuknxPeiQq1u6SfE95ToiCf3BRqkO4dvOEeKq0hLZI49ozINUgag4JFSqkqn&_nc_ohc=4Nu7ipbAqzIAX_rk5q4&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBDn37NCmDpdrAUQN-EgaQh6e7pf6bPDujI41PQgCJtPg&oe=6489A644
 
 Hello, my name is Al-Amin, and I work as a professional web Designer & Developer. I have 2 years of extensive expertise, particularly in WordPress, html5, Bootstrap, CSS3, JavaScript, jQuery Plugin, Email Template, PSD to HTML, PSD to Bootstrap, and Figma to HTML, Figma to Bootstrap, and it will be a 100% Responsive website
 
@@ -27,7 +27,7 @@ My SKILL:
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about Web Developer  
 
-https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/352360865_741590107762128_4946952940908062175_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGyJJwzOsUCfYKNqKKuCgM7okKtbuknxPeiQq1u6SfE95ToiCf3BRqkO4dvOEeKq0hLZI49ozINUgag4JFSqkqn&_nc_ohc=4Nu7ipbAqzIAX_rk5q4&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBDn37NCmDpdrAUQN-EgaQh6e7pf6bPDujI41PQgCJtPg&oe=6489A644
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marshalalamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wdalamin055/)  
 
