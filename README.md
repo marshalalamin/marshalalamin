@@ -5,10 +5,22 @@
 
 
 
+Hello, my name is Al-Amin, and I work as a professional web Designer & Developer. I have 2 years of extensive expertise, particularly in WordPress, html5, Bootstrap, CSS3, JavaScript, jQuery Plugin, Email Template, PSD to HTML, PSD to Bootstrap, and Figma to HTML, Figma to Bootstrap, and it will be a 100% Responsive website
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
-
-Skills:  HTML / CSS/ Boostrap/JS/PHP /Wordpress
+My SKILL:
+=> HTML
+=> CSS
+=> JavaScript
+=> jQuery
+=> Bootstrap
+=> PSD to HTML
+=> WordPress 
+=> PHP
+=> Functions
+=> Wordpress
+=> Theme Development 
+=> Them customization
+=> E-commerce
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript  
